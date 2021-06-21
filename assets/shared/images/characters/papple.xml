@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="papple.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spooky dance idle instance 10000" x="7" y="7" width="812" height="731" frameX="-49" frameY="-4" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10001" x="826" y="7" width="611" height="735" frameX="-73" frameY="0" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10002" x="1444" y="7" width="575" height="733" frameX="-80" frameY="-4" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10003" x="2026" y="7" width="583" height="721" frameX="-80" frameY="-14" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10004" x="2616" y="7" width="661" height="651" frameX="-116" frameY="-85" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10005" x="3284" y="7" width="525" height="649" frameX="-116" frameY="-85" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10006" x="7" y="749" width="546" height="658" frameX="-114" frameY="-72" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10007" x="560" y="749" width="614" height="661" frameX="-114" frameY="-72" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10008" x="1181" y="749" width="724" height="731" frameX="0" frameY="-4" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10009" x="1912" y="749" width="804" height="708" frameX="0" frameY="-25" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10010" x="2723" y="749" width="708" height="716" frameX="-10" frameY="-30" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10011" x="7" y="1487" width="708" height="737" frameX="-10" frameY="-2" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10012" x="722" y="1487" width="661" height="651" frameX="-116" frameY="-85" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10013" x="1390" y="1487" width="525" height="730" frameX="-116" frameY="-4" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10014" x="1922" y="1487" width="546" height="658" frameX="-114" frameY="-72" frameWidth="861" frameHeight="746"/>
+	<SubTexture name="spooky dance idle instance 10015" x="2475" y="1487" width="614" height="661" frameX="-114" frameY="-72" frameWidth="861" frameHeight="746"/>
+</TextureAtlas>

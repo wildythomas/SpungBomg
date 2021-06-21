@@ -1,0 +1,4 @@
+Spong:spong:1
+Absorb:spong:1
+Abrasive:spong-bob:1
+Pineappled:pineapple:1
